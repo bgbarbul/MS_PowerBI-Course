@@ -1,5 +1,8 @@
 # MS_PowerBI-Course
  Microsoft Power BI - A Complete Introduction [2021 EDITION]
+ 
+ ![Certificate](https://user-images.githubusercontent.com/22742505/134803408-985cef37-358a-4bb3-a011-f3978f5beef9.jpg)
+
 
 https://www.udemy.com/course/powerbi-complete-introduction/
 
